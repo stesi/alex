@@ -1,0 +1,4 @@
+[submodule "stesi/alex_sync"]
+	path = stesi/alex_sync
+	url = git@github.com:stesi/alex_sync.git
+	branch = 14.0
