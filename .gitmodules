@@ -2,3 +2,8 @@
 	path = stesi/alex_sync
 	url = git@github.com:stesi/alex_sync.git
 	branch = 14.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
