@@ -7,3 +7,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 14.0
+
+[submodule "stesi/l10n-italy"]
+	path = stesi/l10n-italy
+	url = git@github.com:stesi/l10n-italy.git
+	branch = 14.0
