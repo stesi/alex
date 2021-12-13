@@ -62,3 +62,8 @@
 	path = stesi/stesi_purchase
 	url = git@github.com:stesi/stesi_purchase.git
 	branch = 14.0
+
+[submodule "stesi/odoo_whatsapp_integration"]
+	path = stesi/odoo_whatsapp_integration
+	url = git@github.com:stesi/odoo_whatsapp_integration.git
+	branch = 14.0
