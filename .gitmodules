@@ -1,0 +1,69 @@
+[submodule "stesi/alex_sync"]
+	path = stesi/alex_sync
+	url = git@github.com:stesi/alex_sync.git
+	branch = 14.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
+
+[submodule "stesi/l10n-italy"]
+	path = stesi/l10n-italy
+	url = git@github.com:stesi/l10n-italy.git
+	branch = 14.0
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 14.0
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 14.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 14.0
+
+[submodule "stesi/stesi_sales"]
+	path = stesi/stesi_sales
+	url = git@github.com:stesi/stesi_sales.git
+	branch = 14.0
+
+[submodule "stesi/stesi_purchase"]
+	path = stesi/stesi_purchase
+	url = git@github.com:stesi/stesi_purchase.git
+	branch = 14.0
+
+[submodule "stesi/odoo_whatsapp_integration"]
+	path = stesi/odoo_whatsapp_integration
+	url = git@github.com:stesi/odoo_whatsapp_integration.git
+	branch = 14.0
