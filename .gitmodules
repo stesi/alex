@@ -72,3 +72,8 @@
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 14.0
+
+[submodule "ingegniamo/purchase_vendor_pricelist"]
+	path = ingegniamo/purchase_vendor_pricelist
+	url = git@github.com:ingegniamo/purchase_vendor_pricelist.git
+	branch = 14.0
