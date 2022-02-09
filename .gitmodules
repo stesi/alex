@@ -77,3 +77,8 @@
 	path = ingegniamo/purchase_vendor_pricelist
 	url = git@github.com:ingegniamo/purchase_vendor_pricelist.git
 	branch = 14.0
+
+[submodule "ingegniamo/sale_order_line_taxinc"]
+	path = ingegniamo/sale_order_line_taxinc
+	url = git@github.com:ingegniamo/sale_order_line_taxinc.git
+	branch = 14.0
