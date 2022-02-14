@@ -82,3 +82,8 @@
 	path = ingegniamo/sale_order_line_taxinc
 	url = git@github.com:ingegniamo/sale_order_line_taxinc.git
 	branch = 14.0
+
+[submodule "stesi/alex_custom"]
+	path = stesi/alex_custom
+	url = git@github.com:stesi/alex_custom.git
+	branch = 14.0
