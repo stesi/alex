@@ -67,3 +67,23 @@
 	path = stesi/odoo_whatsapp_integration
 	url = git@github.com:stesi/odoo_whatsapp_integration.git
 	branch = 14.0
+
+[submodule "stesi/stesi_accounting"]
+	path = stesi/stesi_accounting
+	url = git@github.com:stesi/stesi_accounting.git
+	branch = 14.0
+
+[submodule "ingegniamo/purchase_vendor_pricelist"]
+	path = ingegniamo/purchase_vendor_pricelist
+	url = git@github.com:ingegniamo/purchase_vendor_pricelist.git
+	branch = 14.0
+
+[submodule "ingegniamo/sale_order_line_taxinc"]
+	path = ingegniamo/sale_order_line_taxinc
+	url = git@github.com:ingegniamo/sale_order_line_taxinc.git
+	branch = 14.0
+
+[submodule "stesi/alex_custom"]
+	path = stesi/alex_custom
+	url = git@github.com:stesi/alex_custom.git
+	branch = 14.0
