@@ -87,3 +87,8 @@
 	path = stesi/alex_custom
 	url = git@github.com:stesi/alex_custom.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_move_line_taxinc"]
+	path = ingegniamo/account_move_line_taxinc
+	url = git@github.com:ingegniamo/account_move_line_taxinc.git
+	branch = 14.0
