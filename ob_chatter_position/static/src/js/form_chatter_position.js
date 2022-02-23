@@ -9,7 +9,9 @@ odoo.define('ob_chatter_position.ChatterPositionFormController', function (requi
 
         renderButtons: function ($node) {
             this._super.apply(this, arguments);
-            this.$buttons.on('click', '.o_chatter_position_button', this._onChatterPosition.bind(this));
+            if (typeof(this.$buttons)!== 'undefined'){
+                this.$buttons.on('click', '.o_chatter_position_button', this._onChatterPosition.bind(this));
+            }
         },
 
         _onChatterPosition: function () {
