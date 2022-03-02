@@ -97,3 +97,8 @@
 	path = ingegniamo/partner_address_search
 	url = git@github.com:ingegniamo/partner_address_search.git
 	branch = 14.0
+
+[submodule "ingegniamo/partner_efatt_info"]
+	path = ingegniamo/partner_efatt_info
+	url = git@github.com:ingegniamo/partner_efatt_info.git
+	branch = 14.0
