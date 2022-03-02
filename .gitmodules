@@ -92,3 +92,8 @@
 	path = ingegniamo/account_move_line_taxinc
 	url = git@github.com:ingegniamo/account_move_line_taxinc.git
 	branch = 14.0
+
+[submodule "ingegniamo/partner_address_search"]
+	path = ingegniamo/partner_address_search
+	url = git@github.com:ingegniamo/partner_address_search.git
+	branch = 14.0
