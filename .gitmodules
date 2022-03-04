@@ -92,3 +92,18 @@
 	path = ingegniamo/account_move_line_taxinc
 	url = git@github.com:ingegniamo/account_move_line_taxinc.git
 	branch = 14.0
+
+[submodule "ingegniamo/partner_address_search"]
+	path = ingegniamo/partner_address_search
+	url = git@github.com:ingegniamo/partner_address_search.git
+	branch = 14.0
+
+[submodule "ingegniamo/partner_efatt_info"]
+	path = ingegniamo/partner_efatt_info
+	url = git@github.com:ingegniamo/partner_efatt_info.git
+	branch = 14.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 14.0
