@@ -107,3 +107,8 @@
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
 	branch = 14.0
+
+[submodule "ingegniamo/purchase_forecast_product_qty"]
+	path = ingegniamo/purchase_forecast_product_qty
+	url = git@github.com:ingegniamo/purchase_forecast_product_qty.git
+	branch = 14.0
