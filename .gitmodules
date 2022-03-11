@@ -112,3 +112,8 @@
 	path = ingegniamo/purchase_forecast_product_qty
 	url = git@github.com:ingegniamo/purchase_forecast_product_qty.git
 	branch = 14.0
+
+[submodule "ingegniamo/custom_css"]
+	path = ingegniamo/custom_css
+	url = git@github.com:ingegniamo/custom_css.git
+	branch = 14.0
