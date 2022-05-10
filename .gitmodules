@@ -147,3 +147,8 @@
 	path = ingegniamo/stock_show_product_qty_info
 	url = git@github.com:ingegniamo/stock_show_product_qty_info.git
 	branch = 14.0
+
+[submodule "ingegniamo/multi_company_inter_company_rule_lot"]
+	path = ingegniamo/multi_company_inter_company_rule_lot
+	url = git@github.com:ingegniamo/multi_company_inter_company_rule_lot.git
+	branch = 14.0
