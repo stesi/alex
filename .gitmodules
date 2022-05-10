@@ -157,3 +157,8 @@
 	path = ingegniamo/purchase_order_lot_selection
 	url = git@github.com:ingegniamo/purchase_order_lot_selection.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_planned_alert"]
+	path = ingegniamo/stock_planned_alert
+	url = git@github.com:ingegniamo/stock_planned_alert.git
+	branch = 14.0
