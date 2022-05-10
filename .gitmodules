@@ -152,3 +152,8 @@
 	path = ingegniamo/multi_company_inter_company_rule_lot
 	url = git@github.com:ingegniamo/multi_company_inter_company_rule_lot.git
 	branch = 14.0
+
+[submodule "ingegniamo/purchase_order_lot_selection"]
+	path = ingegniamo/purchase_order_lot_selection
+	url = git@github.com:ingegniamo/purchase_order_lot_selection.git
+	branch = 14.0
