@@ -142,3 +142,28 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_show_product_qty_info"]
+	path = ingegniamo/stock_show_product_qty_info
+	url = git@github.com:ingegniamo/stock_show_product_qty_info.git
+	branch = 14.0
+
+[submodule "ingegniamo/multi_company_inter_company_rule_lot"]
+	path = ingegniamo/multi_company_inter_company_rule_lot
+	url = git@github.com:ingegniamo/multi_company_inter_company_rule_lot.git
+	branch = 14.0
+
+[submodule "ingegniamo/purchase_order_lot_selection"]
+	path = ingegniamo/purchase_order_lot_selection
+	url = git@github.com:ingegniamo/purchase_order_lot_selection.git
+	branch = 14.0
+
+[submodule "ingegniamo/stock_planned_alert"]
+	path = ingegniamo/stock_planned_alert
+	url = git@github.com:ingegniamo/stock_planned_alert.git
+	branch = 14.0
+
+[submodule "ingegniamo/sale_purchase_show_lots_on_line"]
+	path = ingegniamo/sale_purchase_show_lots_on_line
+	url = git@github.com:ingegniamo/sale_purchase_show_lots_on_line.git
+	branch = 14.0
