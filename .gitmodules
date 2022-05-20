@@ -167,3 +167,8 @@
 	path = ingegniamo/sale_purchase_show_lots_on_line
 	url = git@github.com:ingegniamo/sale_purchase_show_lots_on_line.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_invoice_cost"]
+	path = ingegniamo/stock_invoice_cost
+	url = git@github.com:ingegniamo/stock_invoice_cost.git
+	branch = 14.0
