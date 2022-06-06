@@ -172,3 +172,8 @@
 	path = ingegniamo/stock_invoice_cost
 	url = git@github.com:ingegniamo/stock_invoice_cost.git
 	branch = 14.0
+
+[submodule "stesi/stesi_connectors"]
+	path = stesi/stesi_connectors
+	url = git@github.com:stesi/stesi_connectors.git
+	branch = 14.0
