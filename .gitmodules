@@ -177,3 +177,8 @@
 	path = stesi/stesi_connectors
 	url = git@github.com:stesi/stesi_connectors.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_direct_serial_input"]
+	path = ingegniamo/stock_direct_serial_input
+	url = git@github.com:ingegniamo/stock_direct_serial_input.git
+	branch = 14.0
