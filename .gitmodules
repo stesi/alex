@@ -182,3 +182,8 @@
 	path = ingegniamo/stock_direct_serial_input
 	url = git@github.com:ingegniamo/stock_direct_serial_input.git
 	branch = 14.0
+
+[submodule "OCA/account-invoice-reporting"]
+	path = OCA/account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 14.0
