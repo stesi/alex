@@ -187,3 +187,7 @@
 	path = OCA/account-invoice-reporting
 	url = git@github.com:OCA/account-invoice-reporting.git
 	branch = 14.0
+[submodule "stesi/customer_invoice_margin"]
+	path = stesi/customer_invoice_margin
+	url = git@github.com:stesi/customer_invoice_margin.git
+	branch = 14.0
