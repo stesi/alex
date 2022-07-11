@@ -191,3 +191,11 @@
 	path = stesi/customer_invoice_margin
 	url = git@github.com:stesi/customer_invoice_margin.git
 	branch = 14.0
+[submodule "stesi/bi_pos_stock"]
+	path = stesi/bi_pos_stock
+	url = git@github.com:stesi/bi_pos_stock.git
+	branch = main
+[submodule "stesi/pos_product_by_lot_number"]
+	path = stesi/pos_product_by_lot_number
+	url = git@github.com:ingegniamo/pos_product_by_lot_number.git
+	branch = 14.0
