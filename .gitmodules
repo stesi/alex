@@ -199,3 +199,8 @@
 	path = stesi/pos_product_by_lot_number
 	url = git@github.com:ingegniamo/pos_product_by_lot_number.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_lot_price"]
+	path = ingegniamo/stock_lot_price
+	url = git@github.com:ingegniamo/stock_lot_price.git
+	branch = 14.0
