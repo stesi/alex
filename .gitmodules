@@ -204,3 +204,8 @@
 	path = ingegniamo/stock_lot_price
 	url = git@github.com:ingegniamo/stock_lot_price.git
 	branch = 14.0
+
+[submodule "stesi/stesi_report_view"]
+	path = stesi/stesi_report_view
+	url = git@github.com:stesi/stesi_report_view.git
+	branch = master
