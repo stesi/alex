@@ -209,3 +209,8 @@
 	path = stesi/stesi_report_view
 	url = git@github.com:stesi/stesi_report_view.git
 	branch = master
+
+[submodule "ingegniamo/dashboard_ninja"]
+	path = ingegniamo/dashboard_ninja
+	url = git@github.com:ingegniamo/dashboard_ninja.git
+	branch = 14.0
