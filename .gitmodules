@@ -214,3 +214,8 @@
 	path = ingegniamo/dashboard_ninja
 	url = git@github.com:ingegniamo/dashboard_ninja.git
 	branch = 14.0
+
+[submodule "ingegniamo/pos_money_closing"]
+	path = ingegniamo/pos_money_closing
+	url = git@github.com:ingegniamo/pos_money_closing.git
+	branch = 14.0
