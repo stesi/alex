@@ -219,3 +219,8 @@
 	path = ingegniamo/pos_money_closing
 	url = git@github.com:ingegniamo/pos_money_closing.git
 	branch = 14.0
+
+[submodule "OCA/stock-logistics-barcode"]
+	path = OCA/stock-logistics-barcode
+	url = git@github.com:OCA/stock-logistics-barcode.git
+	branch = 14.0
