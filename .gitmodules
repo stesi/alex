@@ -229,3 +229,8 @@
 	path = ingegniamo/stock_validation_invoice
 	url = git@github.com:ingegniamo/stock_validation_invoice.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_checks_management"]
+	path = ingegniamo/account_checks_management
+	url = git@github.com:ingegniamo/account_checks_management.git
+	branch = 14.0
