@@ -224,3 +224,8 @@
 	path = OCA/stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_validation_invoice"]
+	path = ingegniamo/stock_validation_invoice
+	url = git@github.com:ingegniamo/stock_validation_invoice.git
+	branch = 14.0
