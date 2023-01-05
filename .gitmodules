@@ -234,3 +234,8 @@
 	path = ingegniamo/account_checks_management
 	url = git@github.com:ingegniamo/account_checks_management.git
 	branch = 14.0
+
+[submodule "ingegniamo/sale_hide_margin"]
+	path = ingegniamo/sale_hide_margin
+	url = git@github.com:ingegniamo/sale_hide_margin.git
+	branch = 14.0
