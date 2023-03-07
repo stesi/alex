@@ -239,3 +239,8 @@
 	path = ingegniamo/sale_hide_margin
 	url = git@github.com:ingegniamo/sale_hide_margin.git
 	branch = 14.0
+
+[submodule "ingegniamo/invoice_description_on_header"]
+	path = ingegniamo/invoice_description_on_header
+	url = git@github.com:ingegniamo/invoice_description_on_header.git
+	branch = 14.0
