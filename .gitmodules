@@ -1,8 +1,3 @@
-[submodule "stesi/alex_sync"]
-	path = stesi/alex_sync
-	url = git@github.com:stesi/alex_sync.git
-	branch = 14.0
-
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
@@ -53,70 +48,15 @@
 	url = git@github.com:OCA/web.git
 	branch = 16.0
 
-[submodule "stesi/stesi_sales"]
-	path = stesi/stesi_sales
-	url = git@github.com:stesi/stesi_sales.git
-	branch = 14.0
-
-[submodule "stesi/stesi_purchase"]
-	path = stesi/stesi_purchase
-	url = git@github.com:stesi/stesi_purchase.git
-	branch = 14.0
-
-[submodule "stesi/odoo_whatsapp_integration"]
-	path = stesi/odoo_whatsapp_integration
-	url = git@github.com:stesi/odoo_whatsapp_integration.git
-	branch = 14.0
-
 [submodule "stesi/stesi_accounting"]
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 16.0
 
-[submodule "ingegniamo/purchase_vendor_pricelist"]
-	path = ingegniamo/purchase_vendor_pricelist
-	url = git@github.com:ingegniamo/purchase_vendor_pricelist.git
-	branch = 14.0
-
-[submodule "ingegniamo/sale_order_line_taxinc"]
-	path = ingegniamo/sale_order_line_taxinc
-	url = git@github.com:ingegniamo/sale_order_line_taxinc.git
-	branch = 14.0
-
-[submodule "stesi/alex_custom"]
-	path = stesi/alex_custom
-	url = git@github.com:stesi/alex_custom.git
-	branch = 14.0
-
-[submodule "ingegniamo/account_move_line_taxinc"]
-	path = ingegniamo/account_move_line_taxinc
-	url = git@github.com:ingegniamo/account_move_line_taxinc.git
-	branch = 14.0
-
-[submodule "ingegniamo/partner_address_search"]
-	path = ingegniamo/partner_address_search
-	url = git@github.com:ingegniamo/partner_address_search.git
-	branch = 14.0
-
-[submodule "ingegniamo/partner_efatt_info"]
-	path = ingegniamo/partner_efatt_info
-	url = git@github.com:ingegniamo/partner_efatt_info.git
-	branch = 14.0
-
 [submodule "OCA/rma"]
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
 	branch = 16.0
-
-[submodule "ingegniamo/purchase_forecast_product_qty"]
-	path = ingegniamo/purchase_forecast_product_qty
-	url = git@github.com:ingegniamo/purchase_forecast_product_qty.git
-	branch = 14.0
-
-[submodule "ingegniamo/custom_css"]
-	path = ingegniamo/custom_css
-	url = git@github.com:ingegniamo/custom_css.git
-	branch = 14.0
 
 [submodule "OCA/commission"]
 	path = OCA/commission
@@ -143,100 +83,12 @@
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 16.0
 
-[submodule "ingegniamo/stock_show_product_qty_info"]
-	path = ingegniamo/stock_show_product_qty_info
-	url = git@github.com:ingegniamo/stock_show_product_qty_info.git
-	branch = 14.0
-
-[submodule "ingegniamo/multi_company_inter_company_rule_lot"]
-	path = ingegniamo/multi_company_inter_company_rule_lot
-	url = git@github.com:ingegniamo/multi_company_inter_company_rule_lot.git
-	branch = 14.0
-
-[submodule "ingegniamo/purchase_order_lot_selection"]
-	path = ingegniamo/purchase_order_lot_selection
-	url = git@github.com:ingegniamo/purchase_order_lot_selection.git
-	branch = 14.0
-
-[submodule "ingegniamo/stock_planned_alert"]
-	path = ingegniamo/stock_planned_alert
-	url = git@github.com:ingegniamo/stock_planned_alert.git
-	branch = 14.0
-
-[submodule "ingegniamo/sale_purchase_show_lots_on_line"]
-	path = ingegniamo/sale_purchase_show_lots_on_line
-	url = git@github.com:ingegniamo/sale_purchase_show_lots_on_line.git
-	branch = 14.0
-
-[submodule "ingegniamo/stock_invoice_cost"]
-	path = ingegniamo/stock_invoice_cost
-	url = git@github.com:ingegniamo/stock_invoice_cost.git
-	branch = 14.0
-
-[submodule "stesi/stesi_connectors"]
-	path = stesi/stesi_connectors
-	url = git@github.com:stesi/stesi_connectors.git
-	branch = 14.0
-
-[submodule "ingegniamo/stock_direct_serial_input"]
-	path = ingegniamo/stock_direct_serial_input
-	url = git@github.com:ingegniamo/stock_direct_serial_input.git
-	branch = 14.0
-
 [submodule "OCA/account-invoice-reporting"]
 	path = OCA/account-invoice-reporting
 	url = git@github.com:OCA/account-invoice-reporting.git
 	branch = 16.0
-[submodule "stesi/customer_invoice_margin"]
-	path = stesi/customer_invoice_margin
-	url = git@github.com:stesi/customer_invoice_margin.git
-	branch = 14.0
-[submodule "stesi/bi_pos_stock"]
-	path = stesi/bi_pos_stock
-	url = git@github.com:stesi/bi_pos_stock.git
-	branch = main
-[submodule "stesi/pos_product_by_lot_number"]
-	path = stesi/pos_product_by_lot_number
-	url = git@github.com:ingegniamo/pos_product_by_lot_number.git
-	branch = 14.0
-
-[submodule "ingegniamo/stock_lot_price"]
-	path = ingegniamo/stock_lot_price
-	url = git@github.com:ingegniamo/stock_lot_price.git
-	branch = 14.0
-
-[submodule "stesi/stesi_report_view"]
-	path = stesi/stesi_report_view
-	url = git@github.com:stesi/stesi_report_view.git
-	branch = master
-
-
-[submodule "ingegniamo/pos_money_closing"]
-	path = ingegniamo/pos_money_closing
-	url = git@github.com:ingegniamo/pos_money_closing.git
-	branch = 14.0
-
 [submodule "OCA/stock-logistics-barcode"]
 	path = OCA/stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 16.0
 
-[submodule "ingegniamo/stock_validation_invoice"]
-	path = ingegniamo/stock_validation_invoice
-	url = git@github.com:ingegniamo/stock_validation_invoice.git
-	branch = 14.0
-
-[submodule "ingegniamo/account_checks_management"]
-	path = ingegniamo/account_checks_management
-	url = git@github.com:ingegniamo/account_checks_management.git
-	branch = 14.0
-
-[submodule "ingegniamo/sale_hide_margin"]
-	path = ingegniamo/sale_hide_margin
-	url = git@github.com:ingegniamo/sale_hide_margin.git
-	branch = 14.0
-
-[submodule "ingegniamo/invoice_description_on_header"]
-	path = ingegniamo/invoice_description_on_header
-	url = git@github.com:ingegniamo/invoice_description_on_header.git
-	branch = 14.0
